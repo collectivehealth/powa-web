@@ -31,7 +31,7 @@
     "grunt-contrib-jasmine": "~0.5.1"
   },
   "dependencies": {
-    "lunr": "~0.4.3"
+    "lunr": "~0.7.2"
   },
   "private": true
 }
